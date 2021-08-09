@@ -2,3 +2,4 @@
 - 🌱 I’m currently learning Java, JavaScript
 - 💻 I like coding Minecraft plugins and websites
 - 🎮 And yes, my favourite game is Minecraft
+- 💻Website i made: https://alkali-1234.github.io/Planner/
