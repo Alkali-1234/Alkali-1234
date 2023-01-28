@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Alkali-1234. You may call me Alk
-- 🌱 I’m currently learning React-Native and Unity
+- ✔ Short status summary:
+    Languages : `Python JavaScript/JSX C# C++ Lua`
+    Frameworks : `React Native | Unity | Roblox (SoonTM)`
+    VSC : `BitBucket GitHub`
 - 💻 I have been programming (text-based) since 2020
-- 🎮 I am currently making a Tower Defense game on Unity
-- 💻 Website I made: https://alkali-1234.github.io/Planner/
-- ✅ About me: https://alkali-1234.github.io/aboutme/
+- ⌚ GMT+7
+- ✅ About me: SoonTM
