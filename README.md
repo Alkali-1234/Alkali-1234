@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Alkali-1234. You may call me Alk
+- 📱 Software Developer (Fullstack)
 - ✔ Short status summary:
-    Languages : `Python JavaScript/JSX C# C++ Lua`
-    Frameworks : `React Native | Flutter [NEW] | Unity`
-    VSC : `BitBucket GitHub`
-- 💻 I have been programming (text-based) since 2020
-- ⌚ GMT+7
-- ✅ About me: SoonTM
+  - Languages : `Python JavaScript/JSX C# C++ Lua Dart HTML/CSS`
+  - Frameworks : `Flutter [MAIN] | React Native | Unity`
+  - VSC : `GitHub Bitbucket`
+- 💻 I have been programming since 2017
+- ⌚ GMT+7 (Western Indonesian Time)
